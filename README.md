@@ -6,7 +6,7 @@ Este es un proyecto simple que demuestra el uso del lienzo (canvas) HTML5 de Jav
 
 El proyecto consiste en una página web que presenta un elemento de lienzo lleno de bolas de colores que siguen el cursor del ratón. A medida que el usuario mueve el ratón por el lienzo, aparecen nuevas bolas que comienzan a seguir el cursor, creando un efecto visual atractivo e interactivo.
 
-##Cómo utilizar
+## Cómo utilizar
 
 Para ver e interactuar con la animación del lienzo, siga estos pasos:
 
